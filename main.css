@@ -5,3 +5,17 @@ body {
 h1 {
     text-align: center;
 }
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#tableDiv {
+    border: solid black 5px;
+    width:700px;
+    height: 400px;
+    background-color: darkolivegreen;
+    box-shadow: darkolivegreen 10px 10px 10px;
+}
